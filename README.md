@@ -2,7 +2,8 @@
 🌟 Mehak Chopra
 
 ## 🎓 About Me
-Hello! I'm **Mehak Chopra**, a passionate Computer Science Engineering student at **Amity University**. I'm currently diving deep into the world of programming and technology, eager to explore and build amazing things!
+Hello! I'm **Mehak Chopra**, a passionate Computer Science Engineering student at **Amity University**.
+I'm currently diving deep into the world of programming and technology, eager to explore and build amazing things!
 
 ## 🚀 Skills & Technologies
 - **Languages:** Python, C++, C, Java
