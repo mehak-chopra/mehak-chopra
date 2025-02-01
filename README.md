@@ -1,16 +1,25 @@
-## Hi there 👋
+```md
+🌟 Mehak Chopra
 
-<!--
-**mehak-chopra/mehak-chopra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+Hello! I'm **Mehak Chopra**, a passionate Computer Science Engineering student at **Amity University**. I'm currently diving deep into the world of programming and technology, eager to explore and build amazing things!
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- **Languages:** Python, C++, C, Java
+- **Web Development:** HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- **LinkedIn:** [Mehak Chopra](https://www.linkedin.com/in/mehak-chopra-b84523328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub:** [mehak-chopra](https://github.com/mehak-chopra)
+
+## 🌟 Fun Fact
+Did you know? The first computer bug was a **real moth** found in a computer in 1947! Debugging has been a thing ever since. 🐛💻
+
+## 📌 Additional Info
+- Currently honing my skills in competitive programming and web development.
+- Open to collaborations and learning new technologies!
+
+---
+✨ Thanks for visiting my profile! Let's connect and build something great together. 🚀
+```
+
