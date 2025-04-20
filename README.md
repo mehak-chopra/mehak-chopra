@@ -10,7 +10,7 @@ I'm currently diving deep into programming and technology, eager to explore and 
 - **Web Development:** HTML, CSS
 
 ## 🔗 Connect with Me
-- **LinkedIn:** [Mehak Chopra](https://www.linkedin.com/in/mehak-chopra-b84523328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn:** [Mehak Chopra](https://www.linkedin.com/in/mehakcodes/)
 - **GitHub:** [mehak-chopra](https://github.com/mehak-chopra)
 
 ## 🌟 Fun Fact
